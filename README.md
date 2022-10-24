@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnluckyB3n
+- 👋 Hi, I’m Ben
 - 👀 I’m interested in well, everything!
 - 🌱 I’m currently learning python, kotlin and probably some algorithms 
 - 💞️ I’m looking to collaborate on anything
